@@ -1,6 +1,6 @@
 ### Hello world! 👋
 I am a Web Developer & SEO from Madrid.
-- 🔭 I enjoy building functional, ready-to-use websites making sure they rank on the first page of a serach engine.
+- 🔭 I enjoy building functional, ready-to-use websites making sure they rank on the first page of a search engine.
 - 🌱 
 <br>
 #Connect with me
