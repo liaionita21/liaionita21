@@ -1,7 +1,7 @@
 ### Hello world! 👋
-I am a Web Developer and SEO from Madrid.
-- 🔭 Working on multiple frontend and backend projects.
-- 🌱 Learning the art of SEO: how to rank on the first pages of a search engine.
+I am a Web Developer & SEO from Madrid.
+- 🔭 I enjoy building functional, ready-to-use websites making sure they rank on the first page of a serach engine.
+- 🌱 
 <br>
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://es.linkedin.com/in/lia21)
@@ -12,9 +12,9 @@ I am a Web Developer and SEO from Madrid.
 <br>
 <br>
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<img align="left" alt="SEP" --src="https://img.shields.io/badge/react%20-%23--! />
+<img align="left" alt="Frontend" --src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"--! />
+<img align="left" alt="CMS" --src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"--! />
 <br>
 <br>
 ## Blog posts
